@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/mysql-connector-java-8.0.28.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/lib/annotations-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/lib/catalina.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/lib/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/lib/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/lib/catalina-ssi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/lib/catalina-storeconfig.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/lib/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/lib/ecj-4.27.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/lib/el-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/lib/jakartaee-migration-1.0.9-shaded.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/lib/jasper.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/lib/jasper-el.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/lib/jaspic-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/lib/tomcat-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/lib/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/lib/tomcat-coyote-ffm.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/lib/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/lib/tomcat-i18n-cs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/lib/tomcat-i18n-de.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/lib/tomcat-i18n-es.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/lib/tomcat-i18n-fr.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/lib/tomcat-i18n-ja.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/lib/tomcat-i18n-ko.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/lib/tomcat-i18n-pt-BR.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/lib/tomcat-i18n-ru.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/lib/tomcat-i18n-zh-CN.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/lib/tomcat-jdbc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/lib/tomcat-jni.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/lib/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/lib/tomcat-util-scan.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/lib/tomcat-websocket.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/lib/websocket-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/lib/websocket-client-api.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
