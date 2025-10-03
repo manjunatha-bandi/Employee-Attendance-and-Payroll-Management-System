@@ -13,3 +13,12 @@ This is a console-based application built with Java and MySQL, designed to strea
 - Modular design with isolated test classes
 - Structured error handling and input validation
 
+Sample output-->
+
+Welcome to Employee Attendance & Payroll System
+1. Add Employee
+2. Record Attendance
+3. Generate Salary
+4. View Records
+5. Exit
+Enter your choice:
