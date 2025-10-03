@@ -22,3 +22,12 @@ Welcome to Employee Attendance & Payroll System
 4. View Records
 5. Exit
 Enter your choice:
+
+
+
+📝 Setup Instructions
+- Clone this repository:
+git clone https://github.com/manjunatha-bandi/Employee-Attendance-and-Payroll-Management-System.git
+- Open in your Java IDE (Eclipse, IntelliJ, etc.)
+- Configure your MySQL database and update credentials in DBConnection.java
+- Run Main.java to start the application
